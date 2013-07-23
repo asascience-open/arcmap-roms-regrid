@@ -24,5 +24,5 @@ python setup.py install
 
 To run the ROMS regridding tool, select the only tool under the ROMS Regridder toolbox from the toolbox menu. Fill out the form with the required (and optional, if desired) parameters.
 
-To open the newly created netCDF file, which has been regridded based on the previous inputs to the tool, use the Multidimensional Toolbox from the ArcMap toolbox menu.
+To open the newly created netCDF file, which has been regridded based on the previous inputs to the tool, use the `Multidimension Tools` toolbox from the ArcMap toolbox menu.
 
